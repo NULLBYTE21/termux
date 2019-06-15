@@ -55,7 +55,7 @@ sleep(3)
 slowprints("[!] Making Setup file...")
 sleep(1)
 
-shortcutkey = "extra-keys = [['ESC','/','-','HOME','UP','END','PGUP'],['TAB','CTRL','ALT','LEFT','RIGHT','PGDN']]                     >
+shortcutkey = "extra-keys = [['ESC','/','-','HOME','UP','END','PGUP'],['TAB','CTRL','ALT','LEFT','RIGHT','PGDN']]"                     >
 script = open('/data/data/com.termux/files/home/.termux/termux.properties','w')
 script.write(shortcutkey)
 script.close()
