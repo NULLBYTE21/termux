@@ -9,7 +9,7 @@ pkg install wget -y
 <br>
 pkg install python
 <br>
-wget https://raw.githack.com/Ajeng23/termux/master>
+wget https://raw.githack.com/Ajeng23/termux/master/Open.py
 chmod +x key.py
 <br>
 python key.py
