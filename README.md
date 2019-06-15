@@ -10,8 +10,8 @@ pkg install wget -y
 pkg install python
 <br>
 wget https://raw.githack.com/Ajeng23/termux/master/Open.py
-chmod +x key.py
+chmod +x Open.py
 <br>
-python key.py
+python Open.py
 
 #Membuka panah ke kanan dan ke kiri untuk termux terbaru
